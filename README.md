@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 | Site repository (made w/ Nuxt) 
+🚀 [Katana](https://xiradorn.github.io/katana/) - [https://xiradorn.github.io/katana/](https://xiradorn.github.io/katana/) 🚀 
  ... work in progress ... i hope ⚙️ ....
 
  - 🔭 I’m currently working on ...
